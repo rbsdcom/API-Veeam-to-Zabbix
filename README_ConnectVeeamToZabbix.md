@@ -14,7 +14,9 @@ Antes de começar, verifique se você possui os seguintes requisitos:
 ## Passo 1: Obter o Veeam Backup and Replication by HTTP
 
 1. Faça o download do Template Veeam Enterprise Manager para o Zabbix. Você pode encontrá-lo no repositório oficial do Zabbix ou em outros repositórios da comunidade.
-2. Extraia o conteúdo do arquivo ZIP do template para uma localização acessível no servidor do Zabbix.
+2. Extraia o conteúdo do arquivo ZIP do template para uma localização acessível no servidor do Zabbix. 
+<a href="https://www.zabbix.com/br/integrations/veeam">Veeam Integration Zabbix</a>
+
 
 ## Passo 2: Configurar o Veeam Enterprise Manager
 
