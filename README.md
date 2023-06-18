@@ -4,10 +4,12 @@ Este projeto tem como objetivo fornecer uma integração entre o Zabbix e o Veea
 
 ## Recursos do Projeto
 
-1. Template Veeam Enterprise Manager: Este projeto inclui um template para o Zabbix que permite monitorar e coletar métricas do Veeam Enterprise Manager usando sua API.
-Requisitos
+1. Veeam Enterprise Manager: É necessário ter acesso ao Veeam Enterprise Manager para obter métricas e informações relevantes.
+
 2. Zabbix: É necessário ter o Zabbix instalado e configurado para usar este projeto.
-Veeam Enterprise Manager: É necessário ter acesso ao Veeam Enterprise Manager para obter métricas e informações relevantes.
+
+3. Template Veeam Enterprise Manager: Este projeto inclui um template para o Zabbix que permite monitorar e coletar métricas do Veeam Enterprise Manager usando sua API.
+Requisitos
 
 ## Instruções de Configuração
 Consulte o arquivo README_EnableAPI_VEAAM do tutorial de configuração fornecido neste repositório para obter instruções detalhadas sobre como habilitar o API REST no Veeam Backup, e o arquivo README_ConnectVeeamToZaabix para configurar a conexão do Template Veeam Enterprise Manager no Zabbix usando a API do Veeam.
